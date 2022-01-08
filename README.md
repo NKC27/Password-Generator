@@ -11,6 +11,8 @@ We were tasked to help build a password generator that meets the following requi
 
 Below are screen shots of the finished Password Generator.
 
+here is a link to the live code: https://nkc27.github.io/Password-Generator/
+
 Start Page
 	
 ![ScreenShot](Assets/StartPage.png)
