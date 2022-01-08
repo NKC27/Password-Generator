@@ -11,4 +11,4 @@ We were tasked to help build a password generator that meets the following requi
 
 Below are screen shots of the finished Password Generator.
 
-	![ScreenShot](Password-Generator/Assets/StartPage.png)
+	![ScreenShot](Assets/StartPage.png)
