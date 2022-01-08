@@ -14,6 +14,10 @@ function generatePassword() {
 
   var allChars = "";
 
+  // Prompt user for the length of the password
+
+  var passLength = prompt("Your password length must be between 8 - 128 characters long")
+
 
 // Output password to the #password input
 function writePassword() {
