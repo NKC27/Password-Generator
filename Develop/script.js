@@ -18,6 +18,11 @@ function generatePassword() {
 
   var passLength = prompt("Your password length must be between 8 - 128 characters long")
 
+// Making sure password length is at a minimum & maximum range
+
+if(passLength >= 8 && passLength <= 128) {
+  console.log(passLength)
+}
 
 // Output password to the #password input
 function writePassword() {
