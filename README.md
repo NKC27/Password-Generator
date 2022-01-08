@@ -11,5 +11,35 @@ We were tasked to help build a password generator that meets the following requi
 
 Below are screen shots of the finished Password Generator.
 
+Start Page
 	
 ![ScreenShot](Assets/StartPage.png)
+
+1st Prompt
+
+![ScreenShot](Assets/1st Prompt.png)
+
+2nd Prompt
+
+![ScreenShot](Assets/2nd Prompt.png)
+
+3rd Prompt
+
+![ScreenShot](Assets/3rd Prompt.png)
+
+4th Prompt
+
+![ScreenShot](Assets/4th Prompt.png)
+
+5th Prompt
+
+![ScreenShot](Assets/5th Prompt.png)
+
+6th Prompt
+
+![ScreenShot](Assets/6th Prompt.png)
+
+7th Prompt
+
+![ScreenShot](Assets/7th Prompt.png)
+
