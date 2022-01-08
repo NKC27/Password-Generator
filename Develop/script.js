@@ -49,21 +49,17 @@ if (
 ) {
   return alert('Please select the correct criteria!');
 }
-
 // for loop to select random characters from allChars to fill the password length
 for (var i = 0; i < passLength; i++) {
   password += allChars[Math.floor(Math.random() * allChars.length)];
 }
 return password;
 }
-
 // Output password to the #password input
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector('#password');
   passwordText.value = password;
-
 }
-
 // Add event listener to generate button
 generateBtn.addEventListener('click', writePassword);
