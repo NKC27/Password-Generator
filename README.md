@@ -17,29 +17,29 @@ Start Page
 
 1st Prompt
 
-![ScreenShot](Assets/1st Prompt.png)
+![ScreenShot](Assets/1stPrompt.png)
 
 2nd Prompt
 
-![ScreenShot](Assets/2nd Prompt.png)
+![ScreenShot](Assets/2ndPrompt.png)
 
 3rd Prompt
 
-![ScreenShot](Assets/3rd Prompt.png)
+![ScreenShot](Assets/3rdPrompt.png)
 
 4th Prompt
 
-![ScreenShot](Assets/4th Prompt.png)
+![ScreenShot](Assets/4thPrompt.png)
 
 5th Prompt
 
-![ScreenShot](Assets/5th Prompt.png)
+![ScreenShot](Assets/5thPrompt.png)
 
 6th Prompt
 
-![ScreenShot](Assets/6th Prompt.png)
+![ScreenShot](Assets/6thPrompt.png)
 
 7th Prompt
 
-![ScreenShot](Assets/7th Prompt.png)
+![ScreenShot](Assets/7thPrompt.png)
 
