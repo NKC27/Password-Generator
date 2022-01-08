@@ -53,6 +53,25 @@ if (upperCharactersChk) {
   allChars += upperCharacters
 }
 
+// If numbers are selected, random pick a number from the numbers array.
+if (numberCharactersChk) {
+  allChars += numberCharacters
+}
+
+// If special characters are selected, random pick a character from the special Chararcters array.
+if (specialCharactersChk) {
+  allChars += specialCharacters
+}
+// This will alert the user to say no characters have been selected.
+if (
+  !lowerCharacters && !upperCharacters && !numberCharacters && !specialCharacters
+) {
+  return alert('Please select the correct criteria!');
+  
+}
+
+
+
 // Output password to the #password input
 function writePassword() {
   var password = generatePassword();
@@ -64,4 +83,15 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener('click', writePassword);
 
+
+// Output password to the #password input
+function writePassword() {
+  var password = generatePassword();
+  var passwordText = document.querySelector('#password');
+  passwordText.value = password;
+
 }
+
+// Add event listener to generate button
+generateBtn.addEventListener('click', writePassword);
+
